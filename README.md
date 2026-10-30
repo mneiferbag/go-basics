@@ -14,4 +14,3 @@ Simple example of working with CSV in Go can be found in directory [cmd/csvlogst
 ## Links
 
 * [golang](https://hub.docker.com/_/golang/) - Official Image - Docker Hub
-
