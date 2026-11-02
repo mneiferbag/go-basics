@@ -9,7 +9,19 @@ Licensed under the MIT License. See file [LICENSE](./LICENSE).
 
 ## CSV
 
-Simple example of working with CSV in Go can be found in directory [cmd/csvlogstats](./cmd/csvlogstats/). Run this example with `go run ./cmd/csvlogstats`.
+Simple example of working with CSV in Go can be found in directory [cmd/csvlogstats](./cmd/csvlogstats/).
+
+Run this example with `go run ./cmd/csvlogstats`.
+
+Install the command with `go install github.com/mneiferbag/go-basics/cmd/csvlogstats@latest`.
+
+## TrainMath
+
+Simple math trainer in Go can be found in directory [cmd/trainmath](./cmd/trainmath/).
+
+Run this example with `go run ./cmd/trainmath`.
+
+Install the command with `go install github.com/mneiferbag/go-basics/cmd/trainmath@latest`.
 
 ## Links
 
